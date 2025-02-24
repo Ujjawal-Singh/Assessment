@@ -6,7 +6,7 @@
 
 ---
 
-## *1.1 Responsive Web Design (15 Points)*  
+## *1.1 Responsive Web Design*  
 ### *Overview*
 This section implements a *fully responsive* homepage that adapts to various screen sizes (from *320px to 1920px). The layout adjusts using **CSS Flexbox and Grid*.
 
@@ -25,7 +25,7 @@ This section implements a *fully responsive* homepage that adapts to various scr
 
 ---
 
-## *1.2 JavaScript Interactive Features (15 Points)*  
+## *1.2 JavaScript Interactive Features*  
 ### *Overview*
 This section introduces an *interactive lightbox* for product images using *pure JavaScript*.  
 
@@ -44,7 +44,7 @@ This section introduces an *interactive lightbox* for product images using *pure
 
 ---
 
-## *1.3 CSS Animation (10 Points)*  
+## *1.3 CSS Animation*  
 ### *Overview*
 This section implements a *loading spinner animation* using *pure CSS*, with no JavaScript involved.  
 
@@ -110,3 +110,8 @@ This project integrates an **Express.js API** with an **SQLite database** for pr
 
 ---
 
+
+
+
+
+Due to time constraints, I was unable to attempt the bonus question, as completing both the frontend and backend sections required careful attention. The frontend portion, in particular, was a bit time-consuming, which limited the time available to address the bonus question.
